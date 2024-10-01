@@ -9,6 +9,10 @@ https://github.com/user-attachments/assets/688e021b-c26d-49b7-ae5a-d66bf88b5ab2
 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
+
+
 
 
 
