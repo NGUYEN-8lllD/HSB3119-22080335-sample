@@ -1,125 +1,95 @@
-#Trần Vũ Hoàng Nguyên![1f5ff](https://github.com/user-attachments/assets/ce424a92-cc47-497a-8e5b-3873e8d20d67)
- 22080335
 
-![459947978_767975898732289_6730043805355571306_n](https://github.com/user-attachments/assets/885af7c6-a017-41e4-b655-bc1b032f5530)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hello+Mr+EC!+👋;Our+data+presentation;+Coronary+Artery+Heart+Disease;" />
+</h1>
 
+<h3 align="center" style="font-weight:bold; color:#2D3748">Research from Group 5</h3>
 
-https://github.com/user-attachments/assets/688e021b-c26d-49b7-ae5a-d66bf88b5ab2
+<div align="center">
 
+---
 
+### 🧬 Project Information
+<ul style="list-style-type:none;">
+    <li><strong>Coronary Artery Heart Disease</strong></li>
+    <li><b>Subject:</b> Data Science</li>
+    <li><b>Class:</b> 2023</li>
+    <li><b>Project Lead:</b> Mr. EC</li>
+</ul>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+---
 
+### 📑 Contents
+<ol>
+    <li><b>Introduction</b></li>
+    <li><b>Data Collection</b></li>
+    <li><b>Data Analysis</b></li>
+    <li><b>Results</b></li>
+    <li><b>Conclusion</b></li>
+</ol>
 
+</div>
 
+---
 
+<h2 align="center" style="font-weight:bold; color:#2C5282">Introduction</h2>
 
+<p style="margin: 10px 20px; line-height:1.6; text-align:justify">
+This project investigates <strong>Coronary Artery Heart Disease (CAHD)</strong>, a condition where the heart's arteries are narrowed or blocked. Our objective is to analyze data to gain insights into the factors contributing to CAHD and identify key trends.
+</p>
 
-Skibidisigm🐺🥶
-shawty 🥴 had them apple 🍎 bottom jeAns 👖boots with the fyUrr 🥾 got the whOle clUb lEwkin at hur 🥵💦 she hit tHE 😳- jesSICA 😠 you sLeep 👌 with your goddamn teacher 👨‍🏫🙏 you SLEEP 😴💤 WITH YOUR TEACHER 🤫 m-mister wilson? 😲 mister wilson😡👌n-NO I DIDNT 😰💥 YES YOU DID 😤💀 NO I DIDNT MOM 🤥👀 youre a little slUt 😆👌👌 MOM NO I DIDNT 🙄🗣️ ADHKDHDJAGS 🙅ANDJWJ 👋 fyAHHKKK 🤕😓 I WAS FAILING ❌ CHEMISTY 🧪👩‍🔬 you're out of the house 🏘️👉 wha- 😵 YOURE OUT OF THE HOUSE 🏘️😠💢 paCK ALL YOUR- 📦 AHHHHHHHGGG 🥺🤯 PACK ALL YOUR SHIT 🤬😠 YOURE OUT 👉 out ❌ 🚪snifff snif 😭 🎶 -the pole💈I got the bank roll 💸 imma say that😝i prefer it no clothes 👙🙅
+---
 
+<h2 align="center" style="font-weight:bold; color:#2C5282">Data Collection</h2>
 
-![](images.jpg)
+<p style="margin: 10px 20px; line-height:1.6; text-align:justify">
+The data was collected from credible sources including:
+</p>
+<ul style="list-style-type:square; margin-left: 30px;">
+    <li>Medical journals</li>
+    <li>Public health datasets</li>
+    <li>Previous research findings</li>
+</ul>
 
-<code style="color : gray">⣿⣿⣿⠟⠛⠛⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢋⣩⣉⢻ .
-⣿⣿⣿⠟⠛⠛⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢋⣩⣉⢻ .
-⣿⣿⣿⠀⣿⣶⣕⣈⠹⠿⠿⠿⠿⠟⠛⣛⢋⣰⠣⣿⣿⠀⣿.
-⣿⣿⣿⠀⣿⣶⣕⣈⠹⠿⠿⠿⠿⠟⠛⣛⢋⣰⠣⣿⣿⠀⣿.
-⣿⣿⣿⡀⣿⣿⣿⣧⢻⣿⣶⣷⣿⣿⣿⣿⣿⣿⠿⠶⡝⠀⣿ .
-⣿⣿⣿⡀⣿⣿⣿⣧⢻⣿⣶⣷⣿⣿⣿⣿⣿⣿⠿⠶⡝⠀⣿ .
-⣿⣿⣿⣷⠘⣿⣿⣿⢏⣿⣿⣋⣀⣈⣻⣿⣿⣷⣤⣤⣿⡐⢿ .
-⣿⣿⣿⣷⠘⣿⣿⣿⢏⣿⣿⣋⣀⣈⣻⣿⣿⣷⣤⣤⣿⡐⢿ .
-⣿⣿⣿⣿⣆⢩⣝⣫⣾⣿⣿⣿⣿⡟⠿⠿⠦⠀⠸⠿⣻⣿⡄⢻ .
-⣿⣿⣿⣿⣆⢩⣝⣫⣾⣿⣿⣿⣿⡟⠿⠿⠦⠀⠸⠿⣻⣿⡄⢻ .
-⣿⣿⣿⣿⣿⡄⢻⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣾⣿⣿⣿⣿⠇⣼ .
-⣿⣿⣿⣿⣿⡄⢻⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣾⣿⣿⣿⣿⠇⣼ .
-⣿⣿⣿⣿⣿⣿⡄⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⣰ .
-⣿⣿⣿⣿⣿⣿⡄⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⣰ .
-⣿⣿⣿⣿⣿⣿⠇⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢀⣿ .
-⣿⣿⣿⣿⣿⣿⠇⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢀⣿ .
-⣿⣿⣿⣿⣿⠏⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿ .
-⣿⣿⣿⣿⣿⠏⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿ .
-⣿⣿⣿⣿⠟⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿ .
-⣿⣿⣿⣿⠟⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿ .
-⣿⣿⣿⠋⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⣿ .
-⣿⣿⣿⠋⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⣿ .
-⣿⣿⣿⠋⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⣿ .
-⣿⣿⠋⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢸ .
-⣿⣿⠋⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢸ .
-⣿⠏⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢸ .
-⣿⠏⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢸ .</code>
-<code style="color : purple">⣿⣿⣿⠟⠛⠛⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢋⣩⣉⢻ .
-⣿⣿⣿⠟⠛⠛⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⢋⣩⣉⢻ .
-⣿⣿⣿⠀⣿⣶⣕⣈⠹⠿⠿⠿⠿⠟⠛⣛⢋⣰⠣⣿⣿⠀⣿.
-⣿⣿⣿⠀⣿⣶⣕⣈⠹⠿⠿⠿⠿⠟⠛⣛⢋⣰⠣⣿⣿⠀⣿.
-⣿⣿⣿⡀⣿⣿⣿⣧⢻⣿⣶⣷⣿⣿⣿⣿⣿⣿⠿⠶⡝⠀⣿ .
-⣿⣿⣿⡀⣿⣿⣿⣧⢻⣿⣶⣷⣿⣿⣿⣿⣿⣿⠿⠶⡝⠀⣿ .
-⣿⣿⣿⣷⠘⣿⣿⣿⢏⣿⣿⣋⣀⣈⣻⣿⣿⣷⣤⣤⣿⡐⢿ .
-⣿⣿⣿⣷⠘⣿⣿⣿⢏⣿⣿⣋⣀⣈⣻⣿⣿⣷⣤⣤⣿⡐⢿ .
-⣿⣿⣿⣿⣆⢩⣝⣫⣾⣿⣿⣿⣿⡟⠿⠿⠦⠀⠸⠿⣻⣿⡄⢻ .
-⣿⣿⣿⣿⣆⢩⣝⣫⣾⣿⣿⣿⣿⡟⠿⠿⠦⠀⠸⠿⣻⣿⡄⢻ .
-⣿⣿⣿⣿⣿⡄⢻⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣾⣿⣿⣿⣿⠇⣼ .
-⣿⣿⣿⣿⣿⡄⢻⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣾⣿⣿⣿⣿⠇⣼ .
-⣿⣿⣿⣿⣿⣿⡄⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⣰ .
-⣿⣿⣿⣿⣿⣿⡄⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⣰ .
-⣿⣿⣿⣿⣿⣿⠇⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢀⣿ .
-⣿⣿⣿⣿⣿⣿⠇⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢀⣿ .
-⣿⣿⣿⣿⣿⠏⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿ .
-⣿⣿⣿⣿⣿⠏⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢸⣿ .
-⣿⣿⣿⣿⠟⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿ .
-⣿⣿⣿⣿⠟⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀⣿ .
-⣿⣿⣿⠋⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⣿ .
-⣿⣿⣿⠋⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⣿ .
-⣿⣿⣿⠋⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⣿ .
-⣿⣿⠋⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢸ .
-⣿⣿⠋⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢸ .
-⣿⠏⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢸ .
-⣿⠏⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢸ .</code>
+---
 
-ඞ ඞ ඞ ඞ ඞ ඞ ඞ 
-‼️‼️HOLY FUCKING 👌♂🍆 SHIT‼️‼️‼️‼️ IS THAT A MOTHERFUCKING 👩💞 AMONG 🙆🏽🅰 US 🇺🇸 REFERENCE??????!!!!!!!!!!11!1!1!1!1!1!1 😱! 😱😱😱😱😱😱😱 AMONG 😂 US 🇺🇸 IS THE BEST 👌💯 FUCKING 🖕🍆 GAME 🎮🕹🃏 🔥🔥🔥🔥💯💯💯💯 RED 🔴 IS SO SUSSSSS 🕵️🕵️🕵️🕵️🕵️🕵️🕵️🟥🟥🟥🟥🟥 COME 💦 TO MEDBAY AND WATCH 👀 ME SCAN 💽 🏥🏥🏥🏥🏥🏥🏥🏥 🏥🏥🏥🏥 WHY ❓🤔 IS NO 🚫🛑😤 ONE ☝🏽 FIXING 👾 O2 🅾 🤬😡🤬😡🤬😡🤬🤬😡🤬🤬😡 OH 😳 YOUR 👉 CREWMATE? NAME 📛 EVERY 💯 TASK 👾😡 🔫😠🔫😠🔫😠🔫😠🔫😠 Where Any sus!❓ ❓ Where!❓ ❓ Where! Any sus!❓ Where! ❓ Any sus!❓ ❓ Any sus 3️⃣! ❓ ❓ ❓ ❓ Where!Where!Where! Any sus!Where!Any sus 3️⃣ Where!❓ Where! ❓ Where!Any sus❓ ❓ Any sus 💦! ❓ ❓ ❓ ❓ ❓ ❓ Where! ❓ Where! ❓ Any sus!❓ ❓ ❓ ❓ Any sus 💦! ❓ ❓ Where!❓ Any sus 💦! ❓ ❓ Where!❓ ❓ Where! ❓ Where!Where! ❓ ❓ ❓ ❓ ❓ ❓ ❓ Any sus!❓ ❓ ❓ Any sus!❓ ❓ ❓ ❓ Where! ❓ Where! Where!Any sus!Where! Where! ❓ ❓ ❓ ❓ ❓ ❓ I 👁 think 🤔 it was purple!👀👀👀👀👀👀👀👀👀👀It wasnt me I 👥 was in vents!!!!!!!!!!!!!!😂🤣😂🤣😂🤣😂😂😂🤣🤣🤣😂😂😂 r/amongusmemes r/unexpectedamongus r/expectedamongus perfectly 💯 balanced ⚖ as all 💯 things 📴 should be r/unexpectedthanos
-.
-.
-.
-.
-...
-.
-.
-..
-.
-.
-...
-.
-.
-..
-.
-..
-..
-.
-.
-.
-..
-.
-.
-.
-.
-.
-.
-.
-.
-  Ɑ͞ ̶͞ ̶͞ ̶͞ لں͞  
-🏳‍🌈say🥛gex🥵
-╰⋃╯PENEİS
-(╬ಠ益ಠ)
-(☭ ͜ʖ ☭)
-(◕‿◕)╭∩╮   ( ͡° ͜ʖ ͡°)╭∩╮   ( ͡~ ͜ʖ ͡°)  (͠≖ ͜ʖ͠≖)  ( ͡ ͡° ͜つ ͡͡° )   ¯\_( ͡° ͜ʖ ͡°)_/¯
-ඞ ඞ ඞ ඞ ඞ ඞ ඞ 
-⠀⠀‎‎‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎ ‎‎‎‎‎⠀⣠⣤⣤⣤⣤⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⢰⡿⠋⠁⠀⠀⠈⠉⠙⠻⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⢀⣿⠇⠀⢀⣴⣶⡾⠿⠿⠿⢿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⣀⣀⣸⡿⠀⠀⢸⣿⣇⠀⠀⠀⠀⠀⠀⠙⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⣾⡟⠛⣿⡇⠀⠀⢸⣿⣿⣷⣤⣤⣤⣤⣶⣶⣿⠇⠀⠀⠀⠀⠀⠀ ⢀⣿⠀⢀⣿⡇⠀⠀⠀⠻⢿⣿⣿⣿⣿⣿⠿⣿⡏⠀⠀⠀⠀ ⢸⣿⠀⢸⣿⡇⠀⠀⠀⠀⠀⠈⠉⠁⠀⠀⠀⣿⡇⣀⣠⣴⣾⣮⣝⠿⠿⠿⣻⡟ ⢸⣿⠀⠘⣿⡇⠀⠀⠀⠀⠀⠀⠀⣠⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠉⠀ ⠸⣿⠀⠀⣿⡇⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠉⠀⠀⠀⠀ ⠀⠻⣷⣶⣿⣇⠀⠀⠀⢠⣼⣿⣿⣿⣿⣿⣿⣿⣛⣛⣻⠉⠁⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⢸⣿⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀ ⠀⠀ ⠀⠀⠀⠀⢸⣿⣀⣀⣀⣼⡿⢿⣿⣿⣿⣿⣿⡿⣿⣿⡿⠀
-‼️‼️HOLY FUCKING 👌♂🍆 SHIT‼️‼️‼️‼️ IS THAT A MOTHERFUCKING 👩💞 AMONG 🙆🏽🅰 US 🇺🇸 REFERENCE??????!!!!!!!!!!11!1!1!1!1!1!1 😱! 😱😱😱😱😱😱😱 AMONG 😂 US 🇺🇸 IS THE BEST 👌💯 FUCKING 🖕🍆 GAME 🎮🕹🃏 🔥🔥🔥🔥💯💯💯💯 RED 🔴 IS SO SUSSSSS 🕵️🕵️🕵️🕵️🕵️🕵️🕵️🟥🟥🟥🟥🟥 COME 💦 TO MEDBAY AND WATCH 👀 ME SCAN 💽 🏥🏥🏥🏥🏥🏥🏥🏥 🏥🏥🏥🏥 WHY ❓🤔 IS NO 🚫🛑😤 ONE ☝🏽 FIXING 👾 O2 🅾 🤬😡🤬😡🤬😡🤬🤬😡🤬🤬😡 OH 😳 YOUR 👉 CREWMATE? NAME 📛 EVERY 💯 TASK 👾😡 🔫😠🔫😠🔫😠🔫😠🔫😠 Where Any sus!❓ ❓ Where!❓ ❓ Where! Any sus!❓ Where! ❓ Any sus!❓ ❓ Any sus 3️⃣! ❓ ❓ ❓ ❓ Where!Where!Where! Any sus!Where!Any sus 3️⃣ Where!❓ Where! ❓ Where!Any sus❓ ❓ Any sus 💦! ❓ ❓ ❓ ❓ ❓ ❓ Where! ❓ Where! ❓ Any sus!❓ ❓ ❓ ❓ Any sus 💦! ❓ ❓ Where!❓ Any sus 💦! ❓ ❓ Where!❓ ❓ Where! ❓ Where!Where! ❓ ❓ ❓ ❓ ❓ ❓ ❓ Any sus!❓ ❓ ❓ Any sus!❓ ❓ ❓ ❓ Where! ❓ Where! Where!Any sus!Where! Where! ❓ ❓ ❓ ❓ ❓ ❓ I 👁 think 🤔 it was purple!👀👀👀👀👀👀👀👀👀👀It wasnt me I 👥 was in vents!!!!!!!!!!!!!!😂🤣😂🤣😂🤣😂😂😂🤣🤣🤣😂😂😂 r/amongusmemes r/unexpectedamongus r/expectedamongus perfectly 💯 balanced ⚖ as all 💯 things 📴 should be r/unexpectedthanos
-✈️💥🏢🏢📞911 
-😈εつ▄█▀█🥵
-🗣️touch grass
+<h2 align="center" style="font-weight:bold; color:#2C5282">Data Analysis</h2>
 
-<code style="color : gray">fmnksniodnasndaksndjasndjasdoand</code>
+<p style="margin: 10px 20px; line-height:1.6; text-align:justify">
+Using Python libraries such as <strong>Pandas, NumPy, and SciPy</strong>, we performed the following analyses:
+</p>
+<ul style="list-style-type:square; margin-left: 30px;">
+    <li>Descriptive statistics to understand data distribution</li>
+    <li>Visualization of data trends and patterns</li>
+    <li>Hypothesis testing</li>
+</ul>
 
+---
+
+<h2 align="center" style="font-weight:bold; color:#2C5282">Results</h2>
+
+<p style="margin: 10px 20px; line-height:1.6; text-align:justify">
+Our results highlight significant factors affecting CAHD, including:
+</p>
+<ul style="list-style-type:square; margin-left: 30px;">
+    <li>Age and lifestyle choices</li>
+    <li>Genetic predispositions</li>
+    <li>Cholesterol levels and blood pressure</li>
+</ul>
+
+---
+
+<h2 align="center" style="font-weight:bold; color:#2C5282">Conclusion</h2>
+
+<p style="margin: 10px 20px; line-height:1.6; text-align:justify">
+In conclusion, the analysis provides valuable insights into <strong>CAHD</strong>. Our findings suggest that preventive measures focusing on lifestyle changes can substantially reduce the risk of CAHD.
+</p>
+
+---
+
+<div align="center">
+    <h3 style="font-weight:bold; color:#2D3748">Thank You for Reading!</h3>
+    <p>For more details, feel free to explore our dataset and analysis process in the project files.</p>
+</div>
